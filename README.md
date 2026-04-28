@@ -84,7 +84,7 @@ Sou João Henrique, tenho 20 anos e sou do Rio de Janeiro. Concluí o ensino mé
 
   🌐 Explorando novas tecnologias e frameworks
           
-Estou sempre aberto a colaborações, feedback e novas oportunidades! Irei adicionar em breve meu LinkedIn, Email, Portfólo e entre outros.
+Estou sempre aberto a colaborações, feedback e novas oportunidades! Irei adicionar em breve meu LinkedIn, Email, Portfólio e entre outros.
 
 
 🎓 Filosofia
