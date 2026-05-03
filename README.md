@@ -2,7 +2,7 @@
 
 **` Desenvolvedor Full Stack`**
 
-Sou João Henrique, tenho 20 anos e sou do Rio de Janeiro. Concluí o ensino médio no Colégio Estadual Prefeito Mendes de Moraes, cursando TI e atualmente me desenvolvendo e projetando como Desenvolvedor, sou um Desenvolvedor de Front-end, Back-end, Full Stack apaixonado por criar soluções web robustas e escaláveis. Acredito que código limpo, bem estruturado e funcional é a base de qualquer projeto extraordinário.
+Sou João Henrique, tenho 20 anos e sou do Rio de Janeiro. Cursando TI e atualmente me desenvolvendo e projetando como Desenvolvedor, sou um Desenvolvedor de Front-end, Back-end, Full Stack apaixonado por criar soluções web robustas e escaláveis. Acredito que código limpo, bem estruturado e funcional é a base de qualquer projeto extraordinário.
 
 ---
 
